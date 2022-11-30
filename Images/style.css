@@ -1,0 +1,67 @@
+/* this is my comment */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background: white;
+    font-family: 'open sans',sans-serif;
+    font-size: 14px;
+    line-height: 1.5px;
+    color: #000;
+}
+
+h1{
+    font-size: 71px;
+    line-height: 106px;
+    font-weight: bold;
+    margin-bottom: 18px;
+}
+
+h2{
+    font-size: 48px;
+    line-height: 1.5;
+    font-weight: bold;
+    margin-bottom: 12px;  
+} 
+
+/* H3...H4...etc */
+
+p {
+    margin-bottom: 1em;
+    font-size: 2 rem;
+}
